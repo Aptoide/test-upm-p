@@ -1,5 +1,5 @@
 {
-  "name": "com.GameDevEducation.DemoPackage",
+  "name": "com.gamedeveducation.demopackage",
   "version": "1.0.0",
   "displayName": "Demo Package",
   "description": "This is a Demo Package for the Unity Package Manager",
